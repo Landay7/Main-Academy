@@ -1,0 +1,13 @@
+   at ConsoleApp1.Program.Method3() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 39
+   at ConsoleApp1.Program.Method2() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 29
+   at ConsoleApp1.Program.Method1() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 23
+   at ConsoleApp1.Program.Method3() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 41
+   at ConsoleApp1.Program.Method2() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 29
+   at ConsoleApp1.Program.Method1() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 23
+   at ConsoleApp1.Program.Method3() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 41
+   at ConsoleApp1.Program.Method2() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 29
+   at ConsoleApp1.Program.Method1() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 23
+   at ConsoleApp1.Program.Method3() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 41
+   at ConsoleApp1.Program.Method2() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 29
+   at ConsoleApp1.Program.Method1() in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 23
+   at ConsoleApp1.Program.Main(String[] args) in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 72

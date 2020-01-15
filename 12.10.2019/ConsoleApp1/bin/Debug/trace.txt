@@ -1,0 +1,13 @@
+Program.cs ошибка в строке 39
+Program.cs ошибка в строке 29
+Program.cs ошибка в строке 23
+Program.cs ошибка в строке 41
+Program.cs ошибка в строке 29
+Program.cs ошибка в строке 23
+Program.cs ошибка в строке 41
+Program.cs ошибка в строке 29
+Program.cs ошибка в строке 23
+Program.cs ошибка в строке 41
+Program.cs ошибка в строке 29
+Program.cs ошибка в строке 23
+Program.cs ошибка в строке 72

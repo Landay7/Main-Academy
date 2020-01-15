@@ -1,0 +1,93 @@
+Attempted to divide by zero.
+   at ConsoleApp1.Program.Main(String[] args) in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 42Attempted to divide by zero.
+   at ConsoleApp1.Program.Main(String[] args) in C:\Шарп\main_academy\ConsoleApp1\ConsoleApp1\Program.cs:line 42Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Die die!
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Die die!
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Die die!
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Die die!
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Die die!
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Die die!
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Hello
+hi
+Goodbye
+Die die!
